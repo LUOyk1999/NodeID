@@ -1,5 +1,7 @@
 # Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning (ICLR 2025)
 
+[![OpenReview](https://img.shields.io/badge/OpenReview-xkljKdGe4E-b31b1b.svg)](https://openreview.net/forum?id=t9lS1lX9FQ) [![arXiv](https://img.shields.io/badge/arXiv-2406.08993-b31b1b.svg)](https://arxiv.org/abs/2405.16435)
+
 ## Python environment setup with Conda
 
 Tested with Python 3.7, PyTorch 1.12.1, and PyTorch Geometric 2.3.1, dgl 1.0.2.
