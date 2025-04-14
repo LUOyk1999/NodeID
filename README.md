@@ -1,6 +1,6 @@
 # Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning (ICLR 2025)
 
-[![OpenReview](https://img.shields.io/badge/OpenReview-xkljKdGe4E-b31b1b.svg)](https://openreview.net/forum?id=t9lS1lX9FQ) [![arXiv](https://img.shields.io/badge/arXiv-2405.16435-b31b1b.svg)](https://arxiv.org/abs/2405.16435)
+[![OpenReview](https://img.shields.io/badge/OpenReview-t9lS1lX9FQ-b31b1b.svg)](https://openreview.net/forum?id=t9lS1lX9FQ) [![arXiv](https://img.shields.io/badge/arXiv-2405.16435-b31b1b.svg)](https://arxiv.org/abs/2405.16435)
 
 ## Python environment setup with Conda
 
