@@ -1,13 +1,14 @@
-# 🔍 Research Series: Reassessing Classic GNNs
+# 🔍 Research Series on Classic GNNs
 
-This work is part of our research series that re-evaluates the potential of classic GNNs:
-  
-| Paper | Venue | Repository |
-| - | - | - | 
-| [Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification](https://openreview.net/forum?id=xkljKdGe4E) | NeurIPS 2024 | [![GitHub](https://img.shields.io/badge/GitHub-Code-success?logo=github)](https://github.com/LUOyk1999/tunedGNN) |
-| [Can Classic GNNs Be Strong Baselines for Graph-Level Tasks?](https://arxiv.org/abs/2502.09263) | ICML 2025    | [![GitHub](https://img.shields.io/badge/GitHub-Code-success?logo=github)](https://github.com/LUOyk1999/GNNPlus) |
-| [When Dropout Meets Graph Convolutional Networks](https://openreview.net/forum?id=PwxYoMvmvy) | ICLR 2025 | [![GitHub](https://img.shields.io/badge/GitHub-Code-success?logo=github)](https://github.com/LUOyk1999/dropout-theory) |
-| **[Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning](https://openreview.net/forum?id=t9lS1lX9FQ)** | ICLR 2025 | [![GitHub](https://img.shields.io/badge/GitHub-Code-success?logo=github)](https://github.com/LUOyk1999/NodeID) |
+| Benchmarking Series: Reassessing Classic GNNs | Paper |
+| - | - |
+| [Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification](https://github.com/LUOyk1999/tunedGNN) (NeurIPS 2024) | [Link](https://openreview.net/forum?id=xkljKdGe4E) |
+| [Can Classic GNNs Be Strong Baselines for Graph-Level Tasks?](https://github.com/LUOyk1999/GNNPlus) (ICML 2025) | [Link](https://arxiv.org/abs/2502.09263) | 
+
+| Follow-up Studies | Paper |
+| - | - |
+| [When Dropout Meets Graph Convolutional Networks](https://github.com/LUOyk1999/dropout-theory) (ICLR 2025)  | [Link](https://openreview.net/forum?id=PwxYoMvmvy) | 
+| **_[Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning](https://github.com/LUOyk1999/NodeID) (ICLR 2025)_** | [Link](https://openreview.net/forum?id=t9lS1lX9FQ) | 
 
 # Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning (ICLR 2025)
 
