@@ -14,6 +14,8 @@
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-t9lS1lX9FQ-b31b1b.svg)](https://openreview.net/forum?id=t9lS1lX9FQ) [![arXiv](https://img.shields.io/badge/arXiv-2405.16435-b31b1b.svg)](https://arxiv.org/abs/2405.16435)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/structure-aware-semantic-node-identifiers-for/node-classification-on-questions)](https://paperswithcode.com/sota/node-classification-on-questions?p=structure-aware-semantic-node-identifiers-for)
+
 ## Python environment setup with Conda
 
 Tested with Python 3.7, PyTorch 1.12.1, and PyTorch Geometric 2.3.1, dgl 1.0.2.
